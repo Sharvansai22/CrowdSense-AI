@@ -1,4 +1,4 @@
-git add app.py detector.py requirements.txt README.md .gitignorefrom __future__ import annotations
+from __future__ import annotations
 
 import io
 import os
